@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon_OOD.iml" filepath="$PROJECT_DIR$/Amazon_OOD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElevatorControlSystem/ElevatorControlSystem.iml" filepath="$PROJECT_DIR$/ElevatorControlSystem/ElevatorControlSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeetingScheduler/MeetingScheduler.iml" filepath="$PROJECT_DIR$/MeetingScheduler/MeetingScheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnixFileSearchAPI/UnixFileSearchAPI.iml" filepath="$PROJECT_DIR$/UnixFileSearchAPI/UnixFileSearchAPI.iml" />
+    </modules>
+  </component>
+</project>
